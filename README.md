@@ -1,2 +1,2 @@
 # AboutMe
-My name is Semyon.
+I was born in 2005.
