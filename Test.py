@@ -1,2 +1,1 @@
-print("Hello, Team!")
-print("Commit from Nikita")
+print("Hello, team!!")
