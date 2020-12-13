@@ -1,2 +1,2 @@
 # AboutMe
-My name is Semyon.
+I'm from school 44.
